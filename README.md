@@ -11,15 +11,8 @@
     <td width="50%">
       <h2 align="center">About Me</h2>
       <p align="center">
-        I'm a passionate software engineer focused on building innovative solutions with modern technologies. With a strong background in full-stack development and growing expertise in machine learning, I love creating applications that make a difference.
-      </p>
-      <p align="center">
-        <a href="https://github.com/abdelaty7?tab=followers">
-          <img src="https://img.shields.io/github/followers/abdelaty7?label=Followers&style=social" alt="GitHub Followers" />
-        </a>
-        <a href="https://github.com/abdelaty7?tab=stars">
-          <img src="https://img.shields.io/github/stars/abdelaty7?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
-        </a>
+        I'm a passionate software engineer with a solid background in full-stack development and a growing interest in machine learning. I enjoy building modern, innovative applications that solve real problems and make a real impact. Whether it's designing clean front-end interfaces or developing efficient back-end systems, I’m driven by creating meaningful software solutions and continuously expanding my skills.
+I believe in writing clean, maintainable code and staying up to date.
       </p>
     </td>
     <td width="50%">
