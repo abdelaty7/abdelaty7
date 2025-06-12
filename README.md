@@ -43,11 +43,11 @@
 
 <br/>
 
-### AI Roadmap
+### AI Basic Courses
 - [ ] [AI for Everyone (Andrew Ng)](https://www.coursera.org/learn/ai-for-everyone)
-- [ ] [CS50'S Intro to AI with python (Brian Yu)](https://cs50.harvard.edu/ai/2024)
 - [ ] [AI python for beginners (Andrew Ng)](https://www.coursera.org/learn/ai-python-for-beginners)
 - [ ] [Mathematics for machine learning (Andrew Ng)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- [ ] [CS50'S Intro to AI with python (Brian Yu)](https://cs50.harvard.edu/ai/2024)
 - [ ] [Artificial Intelligence A-Z (SuperDataScience)](https://www.udemy.com/course/artificial-intelligence-az)
 - [ ] [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction)
 - [ ] [Supervised Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
@@ -66,6 +66,8 @@
 ### Usefull Books
 - [ ] [Python Handbook](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
+<br/>
 
 <div align="center">
   <p>💡 "Knowledge shared is knowledge multiplied"</p>
