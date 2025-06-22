@@ -72,9 +72,10 @@
 
 <br/>
 
-### Usefull Books
+### Usefull Resources
 - [ ] [Python Handbook](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+- [ ] [ZTM Cheat Sheets](https://zerotomastery.io/cheatsheets)
 
 <br/>
 
