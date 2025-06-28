@@ -1,13 +1,5 @@
 <div align="center">
-  
-  # Welcome to My CodeTrove Profile! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
-  
-</div>
-
-<div align="center">
-  <p>
-    This profile serves as my organized digital library and reference hub for <strong>Artificial Intelligence</strong>, <strong>Data Analysis</strong>, and <strong>MERN Stack         Development</strong>. Every repository is meticulously structured to be both a learning resource and a quick reference guide for developers and data scientists.
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -34,12 +26,9 @@
 └── presentations/
     └── example.pdf
 ```
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
-</div>
 
 <br/>
-<br/>
+
 
 | # | Statue | Course | Constructor | Category |
 | - | :----: | ------ | ----------- | -------- |
