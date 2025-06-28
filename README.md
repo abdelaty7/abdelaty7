@@ -57,6 +57,14 @@
 | 23 | ⏱ | [Python Handbook](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view) | - | `Resource` |
 | 24 | ⏱ | [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) | - | `Resource` |
 | 25 | ⏱ | [ZTM Cheat Sheets](https://zerotomastery.io/cheatsheets) | - | `Resource` |
+| 26 | ⏱ | [eCommerce Figma Design](https://www.figma.com/design/GA9fjgPWclPfm8TTJ8ZQ8u/Clicon---eCommerce-Marketplace-Website-Figma-Template--Community---Community-?node-id=279-19819&p=f&t=B974A8QV6eit91iQ-0) | - | `Sub-Career` |
+| 27 | ⏱ | [eCommerce React.js](https://www.udemy.com/share/106hUE3@75sIdWv_927u6zSG7kLfmBk3QbcbwOPWg5prEd6YmaqamhSB46-us0K47-f3cUFPDA==/) | Mahmoud Bakr | `Sub-Career` |
+| 28 | ⏱ | [eCommerce Node.js](https://www.udemy.com/share/106ICA3@MdVRAK8ybqNDdOPmXQHQuZU0uVEp_J0CljxX7TnFJrvhgWHlZGDncTNJVHOswo_log==/) | Ahmed Bogdady | `Sub-Career` |
+| 29 | ⏱ | [Node, Nest, PostgreSQL, GraphQL](https://www.udemy.com/share/10aFpa3@ewSlWT290gCoRfUgoDlvbXGJkPWvy9qWciP7ipA1Q8uJUcFLHEWJ5OFBrhensW_1dg==/) | Muhammad Naga | `Sub-Career` |
+| 30 | ⏱ | [Data Structures & Algorithms](https://www.udemy.com/share/101qSq3@Hai2xIOJ0XvGYpUe8obJs9WqbaRPsSePZlRS0j8NLQHP3DTsO_seoHoUwI37qO-7MQ==/) | Muhammad Naga | `Side Skills` |
+| 31 | ⏱ | [SOLID Principles](https://www.udemy.com/share/10bQKj3@Zc3RLliNic7mQgylPL7t1nv6HEd0iWIErkjCz02NqDSJ65mEjI_i0-2KsrPSQJI6AQ==/) | Mohamed Tamer | `Side Skills` |
+| 32 | ⏱ | [Oracle](https://www.udemy.com/share/10c6dz3@qX0GnN5dv_Z63kmebDb1Jga--dGfy2rRbNoavdvDWt__2_5JyBDuA-fkJIvpdbwd8Q==/) | Mohamed Tamer | `Side Skills` |
+| 33 | ⏱ | [Power BI](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA) | Fouad Zawadi | `Side Skills` |
 <br/>
 
 <div align="center">
