@@ -65,6 +65,7 @@
 | 31 | ⏱ | [SOLID Principles](https://www.udemy.com/share/10bQKj3@Zc3RLliNic7mQgylPL7t1nv6HEd0iWIErkjCz02NqDSJ65mEjI_i0-2KsrPSQJI6AQ==/) | Mohamed Tamer | `Side Skills` |
 | 32 | ⏱ | [Oracle](https://www.udemy.com/share/10c6dz3@qX0GnN5dv_Z63kmebDb1Jga--dGfy2rRbNoavdvDWt__2_5JyBDuA-fkJIvpdbwd8Q==/) | Mohamed Tamer | `Side Skills` |
 | 33 | ⏱ | [Power BI](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA) | Fouad Zawadi | `Side Skills` |
+| 34 | ⏱ | [German A1 - B2](https://smartergerman.com/) | Michael Schmitz | `Side Skills` |
 <br/>
 
 <div align="center">
