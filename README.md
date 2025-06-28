@@ -29,6 +29,8 @@
 
 <br/>
 
+![Table](./Table.png)
+
 
 | # | Statue | Course | Constructor | Category |
 | - | :----: | ------ | ----------- | -------- |
