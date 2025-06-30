@@ -3,39 +3,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Abdelaty's%20Coding%20Journey" width="100%" alt="Activity Graph" />
-  
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-</div>
-
-<br />
-
-<div align="center">
-
-> <div align="left"> Each repository follows this standardized structure for easy navigation </div>
-
-<div align="left">
-  
-```
-│
-├── assets/
-│   └── example.txt
-│   └── example.png
-│
-├── audio/
-│   └── example.mp3
-│
-├── books/
-│   └── example.pdf
-│
-├── codes/
-│   └── example.py
-│
-└── presentations/
-    └── example.pdf
-```
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <br />
 
