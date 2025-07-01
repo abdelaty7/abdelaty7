@@ -286,7 +286,7 @@
 <td><a href="https://smartergerman.com/courses/free-german-beginner-course-a1/">German A1</a></td>
 <td>ᴍɪᴄʜᴀᴇʟ ꜱᴄʜᴍɪᴛᴢ</td>
 <td>★☆☆</td>
-<td>📋</td>
+<td>🔄</td>
 </tr>
 
 <tr>
