@@ -1,3 +1,8 @@
+<div align="right">
+
+###### **Total Courses:** 33
+
+</div>
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Abdelaty's%20Coding%20Journey" width="100%" alt="Activity Graph" />
@@ -303,9 +308,6 @@
 
 <div align="center">
 
-![Total Courses](https://img.shields.io/badge/Total%20Courses-33-a61dec?style=for-the-badge&logo=book&logoColor=white)
-![In Progress](https://img.shields.io/badge/In%20Progress-2-0056D2?style=for-the-badge&logo=hourglass&logoColor=white)
-![Completed](https://img.shields.io/badge/Completed-0-28A745?style=for-the-badge&logo=checkmark&logoColor=white)
-![Total Hours](https://img.shields.io/badge/Total%20Hours-1000+-b91e21?style=for-the-badge&logo=clock&logoColor=white)
+###### Made with ♥️ by Abdelaty
 
 </div>
