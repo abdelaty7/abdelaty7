@@ -1,324 +1,311 @@
 <div align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Abdelaty's%20Coding%20Journey" width="100%" alt="Activity Graph" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 <br />
 
-<table align="center">
+<table width="100%">
 <tr>
-<th>#</th>
-<th>Course</th>
-<th>Instructor</th>
-<th>Level</th>
-<th>Duration</th>
-<th>Status</th>
-</tr>
+<td width="25%">
 
-<tr>
-<td align="center">1</td>
-<td><a href="https://www.coursera.org/learn/ai-for-everyone">AI for Everyone</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★☆☆</td>
-<td>5 hours</td>
-<td>🔄</td>
-</tr>
+#### **[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)**
+###### by Andrew Ng • 5 hours
 
-<tr>
-<td align="center">2</td>
-<td><a href="https://www.coursera.org/learn/ai-python-for-beginners">AI Python for Beginners</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★☆☆</td>
-<td>16 hours</td>
-<td>📋</td>
-</tr>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/In%20Progress-0056D2?style=flat&logo=hourglass&logoColor=white" alt="In Progress"/>
 
-<tr>
-<td align="center">3</td>
-<td><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a></td>
-<td>ɪʙᴍ</td>
-<td>★☆☆</td>
-<td>22 hours</td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">4</td>
-<td><a href="https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science">Mathematics for Machine Learning</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>93 hours</td>
-<td>📋</td>
-</tr>
+#### **[AI Python for Beginners](https://www.coursera.org/learn/ai-python-for-beginners)**
+###### by Andrew Ng • 16 hours
 
-<tr>
-<td align="center">5</td>
-<td><a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics for Data Science with Python</a></td>
-<td>ɪʙᴍ</td>
-<td>★★☆</td>
-<td>12 hours</td>
-<td>📋</td>
-</tr>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
 
-<tr>
-<td align="center">6</td>
-<td><a href="https://www.coursera.org/learn/data-analysis-with-python">Data Analysis with Python</a></td>
-<td>ɪʙᴍ</td>
-<td>★★☆</td>
-<td>12 hours</td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">7</td>
-<td><a href="https://cs50.harvard.edu/ai/2024">CS50's AI with Python</a></td>
-<td>ʙʀɪᴀɴ ʏᴜ</td>
-<td>★★★</td>
-<td>13 hours</td>
-<td>📋</td>
-</tr>
+#### **[Python by IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai)**
+###### by IBM • 22 hours
 
-<tr>
-<td align="center">8</td>
-<td><a href="https://www.udemy.com/course/artificial-intelligence-az">Artificial Intelligence A-Z</a></td>
-<td>ꜱᴜᴘᴇʀᴅᴀᴛᴀꜱᴄɪᴇɴᴄᴇ</td>
-<td>★★☆</td>
-<td>15.5 hours</td>
-<td>📋</td>
-</tr>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
 
-<tr>
-<td align="center">9</td>
-<td><a href="https://www.coursera.org/specializations/machine-learning-introduction">Machine Learning Specialization</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>94 hours</td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">10</td>
-<td><a href="https://www.coursera.org/learn/machine-learning">Supervised Machine Learning</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>32 hours</td>
-<td>📋</td>
-</tr>
+#### **[Math for ML](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)**
+###### by Andrew Ng • 93 hours
 
-<tr>
-<td align="center">11</td>
-<td><a href="https://www.coursera.org/learn/advanced-learning-algorithms">Advanced Learning Algorithms</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>32 hours</td>
-<td>📋</td>
-</tr>
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
 
-<tr>
-<td align="center">12</td>
-<td><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Unsupervised Learning, Recommenders, Reinforcement Learning</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>27 hours</td>
-<td>📋</td>
+</td>
 </tr>
-
 <tr>
-<td align="center">13</td>
-<td><a href="https://www.udemy.com/course/machinelearning">Machine Learning A-Z</a></td>
-<td>ꜱᴜᴘᴇʀᴅᴀᴛᴀꜱᴄɪᴇɴᴄᴇ</td>
-<td>★★☆</td>
-<td>43 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[Statistics by IBM](https://www.coursera.org/learn/statistics-for-data-science-python)**
+###### by IBM • 12 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Data Analysis](https://www.coursera.org/learn/data-analysis-with-python)**
+###### by IBM • 12 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[CS50's AI with Python](https://cs50.harvard.edu/ai/2024)**
+###### by Brian Yu • 13 hours
+
+<img src="https://img.shields.io/badge/Harvard-A51C30?style=flat&logo=harvard&logoColor=white" alt="Harvard"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Artificial Intelligence A-Z](https://www.udemy.com/course/artificial-intelligence-az)**
+###### by SuperDataScience • 15.5 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">14</td>
-<td><a href="https://www.coursera.org/learn/introduction-to-machine-learning-in-production">Machine Learning in Production</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>10 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)**
+###### by Andrew Ng • 94 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Supervised ML](https://www.coursera.org/learn/machine-learning)**
+###### by Andrew Ng • 32 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)**
+###### by Andrew Ng • 32 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Unsupervised Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)**
+###### by Andrew Ng • 27 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">15</td>
-<td><a href="https://www.coursera.org/learn/neural-networks-deep-learning">Neural Networks & Deep Learning</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>22 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[Machine Learning A-Z](https://www.udemy.com/course/machinelearning)**
+###### by SuperDataScience • 43 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[ML in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)**
+###### by Andrew Ng • 10 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning)**
+###### by Andrew Ng • 22 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[DL Specialization](https://www.coursera.org/specializations/deep-learning)**
+###### by Andrew Ng • 125 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">16</td>
-<td><a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★★</td>
-<td>125 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[ML Projects](https://www.coursera.org/learn/machine-learning-projects)**
+###### by Andrew Ng • 5 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Convolutional NN](https://www.coursera.org/learn/convolutional-neural-networks)**
+###### by Andrew Ng • 34 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)**
+###### by Andrew Ng • 35 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)**
+###### by Andrew Ng • 110 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">17</td>
-<td><a href="https://www.coursera.org/learn/machine-learning-projects">Structuring Machine Learning Projects</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>5 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[Deep Learning A-Z](https://www.udemy.com/course/deeplearning)**
+###### by SuperDataScience • 22.5 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
+###### by University of Alberta • 73 hours
+
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Python Handbook](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)**
+###### Reference Material
+
+<img src="https://img.shields.io/badge/PDF-DC143C?style=flat&logo=adobeacrobatreader&logoColor=white" alt="PDF"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Math for ML (PDF)](https://mml-book.github.io/book/mml-book.pdf)**
+###### Reference Material
+
+<img src="https://img.shields.io/badge/PDF-DC143C?style=flat&logo=adobeacrobatreader&logoColor=white" alt="PDF"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">18</td>
-<td><a href="https://www.coursera.org/learn/convolutional-neural-networks">Convolutional Neural Networks</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★☆</td>
-<td>34 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[ZTM Cheat Sheets](https://zerotomastery.io/cheatsheets)**
+###### Reference Material
+
+<img src="https://img.shields.io/badge/Resource-28A745?style=flat&logo=github&logoColor=white" alt="Resource"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[eCommerce Figma Design](https://www.figma.com/design/GA9fjgPWclPfm8TTJ8ZQ8u/Clicon---eCommerce-Marketplace-Website-Figma-Template--Community---Community-?node-id=279-19819&p=f&t=B974A8QV6eit91iQ-0)**
+###### Design Resource
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[eCommerce React.js](https://www.udemy.com/share/106hUE3@75sIdWv_927u6zSG7kLfmBk3QbcbwOPWg5prEd6YmaqamhSB46-us0K47-f3cUFPDA==/)**
+###### by Mahmoud Baker • 67 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[eCommerce Node.js](https://www.udemy.com/share/106ICA3@MdVRAK8ybqNDdOPmXQHQuZU0uVEp_J0CljxX7TnFJrvhgWHlZGDncTNJVHOswo_log==/)**
+###### by Ahmed Bogdady • 33 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">19</td>
-<td><a href="https://www.coursera.org/learn/nlp-sequence-models">Sequence Models</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★★</td>
-<td>35 hours</td>
-<td>📋</td>
+<td width="25%">
+
+#### **[Node.js Back-end](https://www.udemy.com/share/10aFpa3@ewSlWT290gCoRfUgoDlvbXGJkPWvy9qWciP7ipA1Q8uJUcFLHEWJ5OFBrhensW_1dg==/)**
+###### by Muhammad Naga • 39 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/In%20Progress-0056D2?style=flat&logo=hourglass&logoColor=white" alt="In Progress"/>
+
+</td>
+<td width="25%">
+
+#### **[Data Structures & Algorithms](https://www.udemy.com/share/101qSq3@Hai2xIOJ0XvGYpUe8obJs9WqbaRPsSePZlRS0j8NLQHP3DTsO_seoHoUwI37qO-7MQ==/)**
+###### by Andrei Neagoie • 20 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[SOLID Principles](https://www.udemy.com/share/10bQKj3@Zc3RLliNic7mQgylPL7t1nv6HEd0iWIErkjCz02NqDSJ65mEjI_i0-2KsrPSQJI6AQ==/)**
+###### by Mohamed Tamer • 1.5 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
+<td width="25%">
+
+#### **[Oracle Database](https://www.udemy.com/share/10c6dz3@qX0GnN5dv_Z63kmebDb1Jga--dGfy2rRbNoavdvDWt__2_5JyBDuA-fkJIvpdbwd8Q==/)**
+###### by Mohamed Tamer • 10.5 hours
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Udemy"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
+
+</td>
 </tr>
-
 <tr>
-<td align="center">20</td>
-<td><a href="https://www.coursera.org/specializations/natural-language-processing">Natural Language Processing Specialization</a></td>
-<td>ᴀɴᴅʀᴇᴡ ɴɢ</td>
-<td>★★★</td>
-<td>110 hours</td>
-<td>📋</td>
-</tr>
+<td width="25%">
 
-<tr>
-<td align="center">21</td>
-<td><a href="https://www.udemy.com/course/deeplearning">Deep Learning A-Z</a></td>
-<td>ꜱᴜᴘᴇʀᴅᴀᴛᴀꜱᴄɪᴇɴᴄᴇ</td>
-<td>★★☆</td>
-<td>22.5 hours</td>
-<td>📋</td>
-</tr>
+#### **[Power BI](https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA)**
+###### by Fouad Zawadi • 6.5 hours
 
-<tr>
-<td align="center">22</td>
-<td><a href="https://www.coursera.org/specializations/reinforcement-learning">Reinforcement Learning Specialization</a></td>
-<td>ᴜɴɪ ᴏꜰ ᴀʟʙᴇʀᴛᴀ</td>
-<td>★★★</td>
-<td>73 hours</td>
-<td>📋</td>
-</tr>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> <img src="https://img.shields.io/badge/Planned-6C757D?style=flat&logo=bookmark&logoColor=white" alt="Planned"/>
 
-<tr>
-<td align="center">23</td>
-<td><a href="https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view">Python Handbook</a></td>
-<td></td>
-<td>★☆☆</td>
-<td></td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">24</td>
-<td><a href="https://mml-book.github.io/book/mml-book.pdf">Mathematics for Machine Learning (PDF)</a></td>
-<td></td>
-<td>★★☆</td>
-<td></td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">25</td>
-<td><a href="https://zerotomastery.io/cheatsheets">ZTM Cheat Sheets</a></td>
-<td></td>
-<td>★☆☆</td>
-<td></td>
-<td>📋</td>
-</tr>
+</td>
+<td width="25%">
 
-<tr>
-<td align="center">26</td>
-<td><a href="https://www.figma.com/design/GA9fjgPWclPfm8TTJ8ZQ8u/Clicon---eCommerce-Marketplace-Website-Figma-Template--Community---Community-?node-id=279-19819&p=f&t=B974A8QV6eit91iQ-0">eCommerce Figma Design</a></td>
-<td></td>
-<td>★☆☆</td>
-<td></td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">27</td>
-<td><a href="https://www.udemy.com/share/106hUE3@75sIdWv_927u6zSG7kLfmBk3QbcbwOPWg5prEd6YmaqamhSB46-us0K47-f3cUFPDA==/">eCommerce React.js</a></td>
-<td>ᴍᴀʜᴍᴏᴜᴅ ʙᴀᴋʀ</td>
-<td>★★☆</td>
-<td>67 hours</td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">28</td>
-<td><a href="https://www.udemy.com/share/106ICA3@MdVRAK8ybqNDdOPmXQHQuZU0uVEp_J0CljxX7TnFJrvhgWHlZGDncTNJVHOswo_log==/">eCommerce Node.js</a></td>
-<td>ᴀʜᴍᴇᴅ ʙᴏɢᴅᴀᴅʏ</td>
-<td>★★☆</td>
-<td>33 hours</td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">29</td>
-<td><a href="https://www.udemy.com/share/10aFpa3@ewSlWT290gCoRfUgoDlvbXGJkPWvy9qWciP7ipA1Q8uJUcFLHEWJ5OFBrhensW_1dg==/">Node, Nest, PostgreSQL, GraphQL</a></td>
-<td>ᴍᴜʜᴀᴍᴍᴀᴅ ɴᴀɢᴀ</td>
-<td>★★★</td>
-<td>39 hours</td>
-<td>🔄</td>
-</tr>
-
-<tr>
-<td align="center">30</td>
-<td><a href="https://www.udemy.com/share/101qSq3@Hai2xIOJ0XvGYpUe8obJs9WqbaRPsSePZlRS0j8NLQHP3DTsO_seoHoUwI37qO-7MQ==/">Data Structures & Algorithms</a></td>
-<td>ᴀɴᴅʀᴇɪ ɴᴇᴀɢᴏɪᴇ</td>
-<td>★★☆</td>
-<td>20 hours</td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">31</td>
-<td><a href="https://www.udemy.com/share/10bQKj3@Zc3RLliNic7mQgylPL7t1nv6HEd0iWIErkjCz02NqDSJ65mEjI_i0-2KsrPSQJI6AQ==/">SOLID Principles</a></td>
-<td>ᴍᴏʜᴀᴍᴇᴅ ᴛᴀᴍᴇʀ</td>
-<td>★★☆</td>
-<td>1.5 hour</td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">32</td>
-<td><a href="https://www.udemy.com/share/10c6dz3@qX0GnN5dv_Z63kmebDb1Jga--dGfy2rRbNoavdvDWt__2_5JyBDuA-fkJIvpdbwd8Q==/">Oracle</a></td>
-<td>ᴍᴏʜᴀᴍᴇᴅ ᴛᴀᴍᴇʀ</td>
-<td>★★☆</td>
-<td>10.5 hours</td>
-<td>📋</td>
-</tr>
-
-<tr>
-<td align="center">33</td>
-<td><a href="https://www.youtube.com/playlist?list=PL-qR2lCbzf-qKcSx6v7IVz30G5A711xKA">Power BI</a></td>
-<td>ꜰᴏᴜᴀᴅ ᴢᴀᴡᴀᴅɪ</td>
-<td>★★☆</td>
-<td>6.5 hours</td>
-<td>📋</td>
+</td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-##### 📋 **Planned** | 🔄 **In Progress** | ✅ **Completed**
+![Total Courses](https://img.shields.io/badge/Total%20Courses-33-a61dec?style=for-the-badge&logo=book&logoColor=white)
+![In Progress](https://img.shields.io/badge/In%20Progress-2-0056D2?style=for-the-badge&logo=hourglass&logoColor=white)
+![Completed](https://img.shields.io/badge/Completed-0-28A745?style=for-the-badge&logo=checkmark&logoColor=white)
+![Total Hours](https://img.shields.io/badge/Total%20Hours-1000+-b91e21?style=for-the-badge&logo=clock&logoColor=white)
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
