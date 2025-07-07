@@ -1,6 +1,6 @@
 <div align="right">
 
-###### **Total Courses:** 33
+##### **Total Courses:** 33
 
 </div>
 <div align="center">
