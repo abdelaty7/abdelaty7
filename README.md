@@ -304,8 +304,6 @@
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 ###### Made with ♥️ by Abdelaty
