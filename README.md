@@ -1,9 +1,10 @@
 <div align="center">
    
-<h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="70" height="70" alt="Working" />
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="68" height="68" alt="Working" />
+   &nbsp;
   Full-Stack AI Engineer
-</h1>
+</h2>
 
 <div align="right">
 
