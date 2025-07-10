@@ -1,7 +1,7 @@
 <div align="center">
    
 <h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="73" height="73" alt="Working" />
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="70" height="70" alt="Working" />
   Full-Stack AI Engineer
 </h1>
 
@@ -12,20 +12,11 @@
 </div>
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=true&radius=5&area=true&custom_title=Contributions%20Graph" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=false&radius=0&area=true&custom_title=Contributions%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
-#### Passionate about learning both Web Development and AI fields to create innovative and creative solutions that bridge the gap between intelligent systems and user-friendly experiences.
-
-<div align="left">
-
-<h3>
-  <img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzQyOTYsIm5iZiI6MTc1MjEzMzk5NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA3NTMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwNmQ2ZDM5YzI1ZTRhYzQ3OGE4ZGM0Mjc1NTEzNTI2N2NmMDM0ZjkwNWQ5YjVhZGZjMmYzYTdmMzA1YzU4NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.W3Q2oXuR0NBKznqPAIa_7NCRc3CMAGu0BNQe1s8af6U" width="38" height="38" alt="Working" />
-  Courses
-</h3>
-
-</div>
+<br/>
 
 <table width="100%">
 <tr>
@@ -326,8 +317,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" height="35" alt="JavaScript">
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35" height="35" alt="Node.js">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzEyODgsIm5iZiI6MTc1MjEzMDk4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA3MDMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZDJiYTE4ZDYzN2E4ZDM5MDAxY2JlNTliYzYxM2E0YThhYzhiY2Q4YjBlYjlhMjg3N2NmNzg0ZDJhZTAwN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bZ2SgDTFDlQn3E6vEUAVGyYhcR0LVVE7OWfTmquoIj4" width="50" height="50" alt="AI Neural Network">
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35" height="35" alt="React.js">
   &nbsp;&nbsp;&nbsp;
