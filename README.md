@@ -1,20 +1,5 @@
 <div align="center">
-   <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzk0NTAsIm5iZiI6MTc1MjEzOTE1MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA5MTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiOTVhZDVhYTQwYjE1NzMxZGYyZjg2YmM1ZmNmNzdjYzZjYWJiNDU2NzYwMTJhMjAzNjNiNTJiNjkxMzliZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.86C541EqQ7leHhzTOiyFtJ_gV_PrGi6RmiKrlqQNU9Q"/>
-  
-<div align="right">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" alt="JavaScript">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40" alt="Node.js">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzEyODgsIm5iZiI6MTc1MjEzMDk4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA3MDMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZDJiYTE4ZDYzN2E4ZDM5MDAxY2JlNTliYzYxM2E0YThhYzhiY2Q4YjBlYjlhMjg3N2NmNzg0ZDJhZTAwN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bZ2SgDTFDlQn3E6vEUAVGyYhcR0LVVE7OWfTmquoIj4" width="60" height="60" alt="AI Neural Network">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40" alt="React.js">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40" alt="Python">
-  
-</div>
-
+   
 <h1>
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="73" height="73" alt="Working" />
   Full-Stack AI Engineer
@@ -336,7 +321,19 @@
 </tr>
 </table>
 
-<br/>
+<div align="right">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" height="35" alt="JavaScript">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35" height="35" alt="Node.js">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzEyODgsIm5iZiI6MTc1MjEzMDk4OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA3MDMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZDJiYTE4ZDYzN2E4ZDM5MDAxY2JlNTliYzYxM2E0YThhYzhiY2Q4YjBlYjlhMjg3N2NmNzg0ZDJhZTAwN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bZ2SgDTFDlQn3E6vEUAVGyYhcR0LVVE7OWfTmquoIj4" width="50" height="50" alt="AI Neural Network">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35" height="35" alt="React.js">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35" height="35" alt="Python">
+  
+</div>
 
 <div align="center">
    
