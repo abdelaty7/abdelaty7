@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:60a5fa40&height=170&section=header&animation=twinkling&fontAlignY=35" width="100%"/>
+   <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzk0NTAsIm5iZiI6MTc1MjEzOTE1MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA5MTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiOTVhZDVhYTQwYjE1NzMxZGYyZjg2YmM1ZmNmNzdjYzZjYWJiNDU2NzYwMTJhMjAzNjNiNTJiNjkxMzliZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.86C541EqQ7leHhzTOiyFtJ_gV_PrGi6RmiKrlqQNU9Q"/>
   
 <div align="right">
   
@@ -16,7 +16,7 @@
 </div>
 
 <h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="75" height="75" alt="Working" />
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="73" height="73" alt="Working" />
   Full-Stack AI Engineer
 </h1>
 
@@ -336,6 +336,10 @@
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa40,100:3b82f6&height=120&section=footer&animation=fadeIn&fontAlignY=65" width="100%"/>
+   
+##### Made with ❤️️ by Abdelaty. 
+   
 </div>
