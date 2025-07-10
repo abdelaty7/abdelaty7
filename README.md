@@ -1,8 +1,6 @@
 <div align="center">
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="66" align="left" />
-  <h3 align="left"> &nbsp; :)</h3>
   <h5 align="right">Total Courses: 33</h5>
 </div>
 
@@ -321,6 +319,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="33" height="33" alt="Python">
   
 </div>
+
 
 <div align="center">
    
