@@ -1,10 +1,12 @@
 <div align="center">
 
-<div align="right">
-
-##### **Total Courses:** 33
-
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="66" align="left" />
+  <h3 align="left"> &nbsp; :)</h3>
+  <h5 align="right">Total Courses: 33</h5>
 </div>
+
+
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=false&radius=0&area=true&custom_title=Contributions%20Graph" width="100%" alt="Activity Graph" />
@@ -12,14 +14,7 @@
 </div>
 
 <br/>
-   
-<h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="66" height="66" alt="Working" />
-   &nbsp;
-  Full-Stack AI Engineer
-</h2>
-
-
+  
 
 <table width="100%">
 <tr>
