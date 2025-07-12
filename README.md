@@ -5,35 +5,24 @@
   &nbsp;Full-Stack AI Engineer
 </h1>
 
-<p>
+<h4>
   I'm passionate about combining web development with artificial intelligence to build innovative solutions. On my GitHub, I manage an organization focused on AI education, where I document my learning journey and share resources to make AI more accessible. While my personal repositories showcase diverse projects, all educational AI content is organized separately for clarity. My goal is to present my work through impactful websites—just as ChatGPT reached the world as a website-powered AI tool. I'm committed to continuing this journey, creating value, and leaving a real mark.
-</p>
+</h4>
 
-<h3 align="left">
-  Access The Organization?
-</h3>
+
 
 ![ai-organization](./ai-organization.png)
 
-<div>
-  <h5 align="right">Total Courses: 33</h5>
-</div>
-
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaty7&theme=tokyo-night&hide_border=false&radius=0&area=true&custom_title=Contributions%20Graph" width="100%" alt="Activity Graph" />
-
-</div>
-
-<br/>
-  
+<h3 align="left">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIzMTk2NTgsIm5iZiI6MTc1MjMxOTM1OCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEyVDExMjIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0ZjU3MTk1OTMzNjdiYTQ1OGVhNmEyYzE1OWM0YTU2MTllYmRkMDY1Njg0YjE3ZTZiNjgyMWRjNDU5NWQwMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WFaaRYxXeDQWZl2kk94yuKCsz_Lj71MKvroc7L1COa8" width="50" />
+  &nbsp;AI Courses
+</h3>
 
 <table width="100%">
 <tr>
 <td width="25%">
 
-#### **[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)**
+#### **01. [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)**
 ###### by Andrew Ng • 5 hours
 
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera"/> <img src="https://img.shields.io/badge/In%20Progress-0056D2?style=flat&logo=hourglass&logoColor=white" alt="In Progress"/>
