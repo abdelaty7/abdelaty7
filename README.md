@@ -1,5 +1,20 @@
 <div align="center">
 
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="95" />
+  &nbsp;Full-Stack AI Engineer
+</h1>
+
+<p>
+  I'm passionate about combining web development with artificial intelligence to build innovative solutions. On my GitHub, I manage an organization focused on AI education, where I document my learning journey and share resources to make AI more accessible. While my personal repositories showcase diverse projects, all educational AI content is organized separately for clarity. My goal is to present my work through impactful websites—just as ChatGPT reached the world as a website-powered AI tool. I'm committed to continuing this journey, creating value, and leaving a real mark.
+</p>
+
+<h3 align="left">
+  Access The Organization?
+</h3>
+
+![ai-organization](./ai-organization.png)
+
 <div>
   <h5 align="right">Total Courses: 33</h5>
 </div>
