@@ -5,6 +5,8 @@
 <br/>
 <br/>
 
+<details>
+  <summary>My Structured AI Study Plan</summary>
 <table width="100%" cellspacing="0" cellpadding="0" align="left">
   <tbody>
     <tr>
