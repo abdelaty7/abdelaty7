@@ -37,7 +37,7 @@
       <td><h5>05</h5></td>
       <td><h6><a href="https://neurotecheg.com/courses/python-ahmedashraf/" target="_blank">Python Introduction1</a> • Ahmed Ashraf</h6></td>
         <td><h6>NeuroTech • 31.6h</h6></td>
-      <td><h5>Planned</h5></td>
+      <td><h5>In Progress</h5></td>
     </tr>
     <tr>
       <td><h5>06</h5></td>
